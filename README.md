@@ -6,7 +6,7 @@
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | # | 60 |
+| Задание 1 | * | 60 |
 | Задание 2 | # | 20 |
 | Задание 3 | # | 20 |
 
@@ -43,6 +43,11 @@
 - Создал новый файл в Google colab
 - Написал в Google colab print("Hello, World!"), и запустил программу![colab](https://user-images.githubusercontent.com/114508818/192586167-036f2ec0-6d48-4fde-a1d7-c071c3b4d2ff.PNG)
 - Сохранил программу на Google диск ![disk](https://user-images.githubusercontent.com/114508818/192586533-273c4a76-e2f8-4b53-b7f6-f2b726818a90.PNG)
+- Написал новый скрипт в Unity![Skript](https://user-images.githubusercontent.com/114508818/192593487-ad5f990e-8ec4-43c7-9834-48afaf34305d.PNG)
+- Запустил программу 
+- В консоли отобразилось сообщение "Hello World" ![Console](https://user-images.githubusercontent.com/114508818/192593740-1f509efe-beb7-47bb-8c15-05092152ee7a.PNG)
+
+
 
 
 
