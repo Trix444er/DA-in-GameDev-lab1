@@ -42,6 +42,7 @@
 Ход работы:
 - Создал новый файл в Google colab
 - Написал в Google colab print("Hello, World!"), и запустил программу![colab](https://user-images.githubusercontent.com/114508818/192586167-036f2ec0-6d48-4fde-a1d7-c071c3b4d2ff.PNG)
+- Сохранил программу на Google диск ![disk](https://user-images.githubusercontent.com/114508818/192586533-273c4a76-e2f8-4b53-b7f6-f2b726818a90.PNG)
 
 
 
