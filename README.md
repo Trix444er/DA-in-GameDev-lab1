@@ -111,7 +111,7 @@ oEditor.CreateSphere(
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
+В этой работе я научился работать с Google.colab и программой Unity. Также я вывел программу в Google.colab и скрипт "Hello World" в Unity.
 
 | Plugin | README |
 | ------ | ------ |
